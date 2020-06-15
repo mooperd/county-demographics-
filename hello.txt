@@ -1,8 +1,1 @@
-Hello
-Mon Jun 15 16:02:11 CEST 2020
-Mon Jun 15 16:02:25 CEST 2020
-Hello Jürgen and Sophie
-Mon Jun 15 16:02:26 CEST 2020
-Mon Jun 15 16:02:26 CEST 2020
-Mon Jun 15 16:02:27 CEST 2020
-meow
+Mon Jun 15 17:22:02 CEST 2020
